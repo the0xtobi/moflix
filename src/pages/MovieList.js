@@ -1,9 +1,7 @@
-function MovieList(){
-    return(
+export const MovieList = () => {
+    return (
         <main>
             MovieList
         </main>
     )
 }
-
-export default MovieList;

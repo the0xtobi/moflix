@@ -1,9 +1,7 @@
-function Search(){
-    return(
+export const Search = () => {
+    return (
         <main>
             Search
         </main>
     )
 }
-
-export default Search;

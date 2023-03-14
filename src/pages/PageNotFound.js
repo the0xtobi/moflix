@@ -1,9 +1,7 @@
-function PageNotFound(){
-    return(
+export const PageNotFound = () => {
+    return (
         <main>
-            Page not found
+            PageNotFound
         </main>
     )
 }
-
-export default PageNotFound;
