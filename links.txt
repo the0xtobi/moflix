@@ -1,0 +1,25 @@
+moflix-v1.netlify.app
+
+API KEY: 8bd868ab15b91b1331a477e86e10f749
+
+Base URL: https://api.themoviedb.org/3
+
+Detail:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=8bd868ab15b91b1331a477e86e10f749
+
+Now playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=8bd868ab15b91b1331a477e86e10f749
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=8bd868ab15b91b1331a477e86e10f749
+
+Top rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=8bd868ab15b91b1331a477e86e10f749
+
+Upcoming:
+https://api.themoviedb.org/3/movie/upcoming?api_key=8bd868ab15b91b1331a477e86e10f749
+
+Search: 
+https://api.themoviedb.org/3/search/movie?api_key=8bd868ab15b91b1331a477e86e10f749&query={movie_name} 
+
+
